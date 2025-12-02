@@ -1,0 +1,2 @@
+# genAI
+generative AI project
